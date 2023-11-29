@@ -1,4 +1,4 @@
-# CS-Venture-Vault A repository you can never ignore 
+# CS-Venture-Vault {A repository you can never afford to ignore}
 
 An awesome list of events and fellowship opportunities for computer science students
 
