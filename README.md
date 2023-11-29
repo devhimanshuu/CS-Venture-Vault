@@ -1,4 +1,4 @@
-# awesome-computer-science-opportunities
+# CS-Venture-Vault A repository you can never ignore 
 
 An awesome list of events and fellowship opportunities for computer science students
 
